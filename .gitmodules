@@ -1,0 +1,6 @@
+[submodule "hello_world"]
+	path = hello_world
+	url = https://github.com/your-username/hello_world.git
+[submodule "variables"]
+	path = variables
+	url = https://github.com/your-username/variables.git
